@@ -1,7 +1,0 @@
-﻿  main.cpp
-e:\repository\calculator\calculator\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
-  scan.cpp
-e:\repository\calculator\calculator\scan.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
-  print.cpp
-  正在生成代码...
-  calculator.vcxproj -> E:\repository\calculator\Debug\calculator.exe
