@@ -1,0 +1,11 @@
+﻿  scan.cpp
+e:\repository\calculator-step2\calculator-step2\scan.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
+  print.cpp
+  main.cpp
+e:\repository\calculator-step2\calculator-step2\main.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  Calculation.cpp
+  正在生成代码...
+e:\repository\calculator-step2\calculator-step2\calculation.cpp(21): warning C4715: “priority”: 不是所有的控件路径都返回值
+e:\repository\calculator-step2\calculator-step2\calculation.cpp(13): warning C4715: “calculate1”: 不是所有的控件路径都返回值
+e:\repository\calculator-step2\calculator-step2\main.cpp(41): warning C4715: “numlength_check”: 不是所有的控件路径都返回值
+  calculator-step2.vcxproj -> E:\repository\calculator-step2\Debug\calculator-step2.exe
