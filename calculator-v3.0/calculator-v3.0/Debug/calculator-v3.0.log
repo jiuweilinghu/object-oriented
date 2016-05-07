@@ -1,0 +1,11 @@
+﻿  scan.cpp
+c:\users\hujunqin\documents\visual studio 2015\projects\calculator-v3.0\calculator-v3.0\scan.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+  print.cpp
+  main.cpp
+c:\users\hujunqin\documents\visual studio 2015\projects\calculator-v3.0\calculator-v3.0\main.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+  calculation.cpp
+  正在生成代码...
+c:\users\hujunqin\documents\visual studio 2015\projects\calculator-v3.0\calculator-v3.0\calculation.cpp(26): warning C4715: “calculate1”: 不是所有的控件路径都返回值
+c:\users\hujunqin\documents\visual studio 2015\projects\calculator-v3.0\calculator-v3.0\calculation.cpp(45): warning C4715: “priority”: 不是所有的控件路径都返回值
+c:\users\hujunqin\documents\visual studio 2015\projects\calculator-v3.0\calculator-v3.0\main.cpp(83): warning C4715: “numlength_check”: 不是所有的控件路径都返回值
+  calculator-v3.0.vcxproj -> c:\users\hujunqin\documents\visual studio 2015\Projects\calculator-v3.0\Debug\calculator-v3.0.exe
