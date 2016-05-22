@@ -1,0 +1,6 @@
+The area of a circle
+
+，Create a program that asks for the radius of a circle and prints the area of that circle .
+，Use `cin` and `cout` . 
+，The whole program should be divided into two source files(cpp) .
+，Hand in the source files and the head files which you create .
