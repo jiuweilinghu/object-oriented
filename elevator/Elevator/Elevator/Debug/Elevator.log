@@ -1,7 +1,5 @@
 ﻿  Decision.cpp
-c:\users\清竹潇湘\desktop\object-oriented\elevator\elevator\elevator\decision.cpp(47): warning C4715: “isfinished”: 不是所有的控件路径都返回值
-c:\users\清竹潇湘\desktop\object-oriented\elevator\elevator\elevator\decision.cpp(60): warning C4715: “isin”: 不是所有的控件路径都返回值
-c:\users\清竹潇湘\desktop\object-oriented\elevator\elevator\elevator\decision.cpp(74): warning C4715: “isout”: 不是所有的控件路径都返回值
-c:\users\清竹潇湘\desktop\object-oriented\elevator\elevator\elevator\decision.cpp(87): warning C4715: “iswaiting”: 不是所有的控件路径都返回值
+c:\users\清竹潇湘\desktop\object-oriented\elevator\elevator\elevator\decision.cpp(54): warning C4715: “isfinished”: 不是所有的控件路径都返回值
+c:\users\清竹潇湘\desktop\object-oriented\elevator\elevator\elevator\decision.cpp(159): warning C4715: “iswaiting”: 不是所有的控件路径都返回值
   Elevator.vcxproj -> C:\Users\清竹潇湘\Desktop\object-oriented\elevator\Elevator\Debug\Elevator.exe
   Elevator.vcxproj -> C:\Users\清竹潇湘\Desktop\object-oriented\elevator\Elevator\Debug\Elevator.pdb (Partial PDB)
